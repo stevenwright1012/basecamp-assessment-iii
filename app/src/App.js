@@ -6,7 +6,7 @@ class App extends React.Component {
     render(){
         return <div>
             <Foxy />
-            <Vulpix />
+            <Vulpi />
             <Test />
         </div>
     };
@@ -21,7 +21,7 @@ class Foxy extends React.Component{
     }
 }
 
-class Vulpix extends React.Component{
+class Vulpi extends React.Component{
     render(){
         return <a href="Vulpix.html">Wanna See a fox? Click here</a>
     };
